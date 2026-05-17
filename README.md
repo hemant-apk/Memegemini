@@ -1,6 +1,6 @@
 # ⚡ Memegemini — AI Multi-Variant Meme Generator
 
-> Upload any image. Add a theme. Watch Google Gemini craft three hilarious, sarcastic meme variants — ready to edit and download in seconds.
+> Upload any image. Add context. Watch Google Gemini craft three hilarious, sarcastic meme variants — ready to edit and download in seconds.
 
 ---
 
