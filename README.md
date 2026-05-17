@@ -4,7 +4,7 @@
 
 ---
 
-## What is MemeGemini?
+## What is Memegemini?
 
 MemeGemini is a browser-based meme creation tool powered by **Google Gemini's multimodal AI**. It analyzes the visual content of any image you upload — reading expressions, body language, energy, and context — and automatically generates **3 distinct, caption-ready meme variants** with intelligent placement, dynamic font sizing, and real-time canvas editing.
 
