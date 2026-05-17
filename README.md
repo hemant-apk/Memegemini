@@ -15,7 +15,7 @@ No accounts. No servers. Just your image, your Gemini API key, and a lot of sarc
 ## How to Use
 
 ### 1. Get a Gemini API Key
-- Visit [Google AI Studio](https://aistudio.google.com/) and generate a free API key.
+- Visit [Google AI Studio](https://aistudio.google.com/api-keys) and generate a free API key.
 - In the app, click **"Configure API Key"** in the top-right header and paste your key.
 - Your key is stored **only in your browser's local storage** — it is never sent to any third-party server.
 
