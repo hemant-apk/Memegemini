@@ -12,6 +12,24 @@ No accounts. No servers. Just your image, your Gemini API key, and a lot of sarc
 
 ---
 
+## Who Is This For?
+
+Memes are one of the highest-engagement content formats on the internet — but creating ones that actually land takes time, creativity, and a pulse on current culture. Memegemini removes that bottleneck.
+
+**Digital Marketers**
+Stop spending hours brainstorming captions. Upload a campaign visual, describe your angle, and get 3 ready-to-post meme variants in seconds. Test different tones across variants without any extra effort. Meme campaigns deliver ~19% click-through rates compared to ~6% for standard marketing campaigns — and 14% higher CTR than email marketing.
+
+**Brands & Social Media Teams**
+Meme content drives organic reach that polished ad creatives rarely match. Memes generate 10x more organic reach and 60% higher engagement than regular marketing visuals. Over 60% of consumers say they are more likely to purchase from brands that use memes — and 80% find such brands more relatable. Memegemini lets brand teams produce on-trend, humorous content quickly — without needing a dedicated creative team or an agency.
+
+**Film & Entertainment Marketing**
+Memes have become a core pillar of modern film promotion. Meme-driven campaigns consistently deliver 18–22% engagement rates and hundreds of millions of impressions — often at a fraction of traditional ad spend. Turn posters, stills, or scene grabs into shareable content that builds organic buzz before a single ticket is sold.
+
+**Content Creators & Influencers**
+Turn any image into shareable content quickly to stay consistent
+
+---
+
 ## How to Use
 
 ### 1. Get a Gemini API Key
